@@ -51,7 +51,7 @@ body, html {
 
 
 .frame-cover {
-  background-image: url('bg.jpg');
+  background-image: url('bg2.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -69,7 +69,6 @@ body, html {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.1); /* Gelap dengan transparansi 50% */
   z-index: -1; /* Memastikan lapisan gelap berada di belakang konten */
 }
 
@@ -129,7 +128,7 @@ to {
 
 /* Gaya tombol */
 .btn-dark {
-background-color: #700f0f; /* Warna latar belakang tombol */
+background-color: #55311d; /* Warna latar belakang tombol */
 border: none; /* Menghapus border default */
 color: #fff; /* Warna teks tombol */
 padding: 8px 18px; /* Padding tombol */
@@ -158,7 +157,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
   background-position: center;
   display: flex;
   min-height: 50%;
-  color: #ffffff;
+  color: #55311d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -169,15 +168,15 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .dandiantara {
   position: relative;
-  color: #ffffff;
+  color: #55311d;
 }
 
 .frame-2 {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   display: flex;
-  color: #ffffff;
+  color: #55311d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -190,7 +189,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-2a {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   background-position: center;
   color: #0f0f0f;
@@ -225,11 +224,11 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 }
 
 .frame-3 {
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
-  color: #ffffff;
+  color: #55311d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -246,11 +245,11 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-4 {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
-  color: #ffffff;
+  color: #55311d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -270,7 +269,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-4 .countdown, .frame-4 .event {
   background: rgba(255, 255, 255, 0.2);
-  color: #ffffff;
+  color: #55311d;
   padding: 20px;
   border-radius: 10px;
   margin: 10px 0;
@@ -285,7 +284,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
 
 .frame-5 {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -408,7 +407,7 @@ background-color:  rgba(82, 82, 82, 0.8);
 
 .frame-6 {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
   display: flex;
   color: #0f0f0f;
@@ -424,9 +423,9 @@ background-color:  rgba(82, 82, 82, 0.8);
 
 .frame-7 {
   display: flex;
-  background-image: url(img/bg3-pjg.jpg);
+  background-image: url(img/bg2.jpg);
   background-size: cover;
-  color: #ffffff;
+  color: #55311d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -439,7 +438,7 @@ background-color:  rgba(82, 82, 82, 0.8);
 }
 .gift-card {
   background-image: url(img/giftcard.png);
-  color: #ffffff;
+  color: #55311d;
   padding: 20px;
   border-radius: 10px;
   display: flex;
